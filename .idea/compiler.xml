@@ -27,9 +27,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Example1" target="1.5" />
-      <module name="Example2" target="1.5" />
-      <module name="ExampleMavenTutorial" target="1.5" />
+      <module name="Example1" target="1.8" />
+      <module name="Example2" target="1.8" />
+      <module name="ExampleMavenTutorial" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
